@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\repository\\contract\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\repository\\contract\\iprofessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\repository\\contract\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\views\\aluno\\cadastrara.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\views\\aluno\\cadastrara.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\views\\professor\\cadastrarp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\views\\professor\\cadastrarp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|c:\\users\\kakas\\source\\repos\\kauaejoaor\\kauaejoaor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6966AA-78C2-45FC-AD16-69CBA43C4F13}|KauaeJoaoR\\KauaeJoaoR.csproj|solutionrelative:kauaejoaor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CadastrarP.cshtml",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Professor\\CadastrarP.cshtml",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Views\\Professor\\CadastrarP.cshtml",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Professor\\CadastrarP.cshtml",
+              "RelativeToolTip": "KauaeJoaoR\\Views\\Professor\\CadastrarP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T22:09:39.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Professor\\Index.cshtml",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Views\\Professor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Professor\\Index.cshtml",
+              "RelativeToolTip": "KauaeJoaoR\\Views\\Professor\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T22:08:45.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastrarA.cshtml",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Aluno\\CadastrarA.cshtml",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Views\\Aluno\\CadastrarA.cshtml",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Aluno\\CadastrarA.cshtml",
+              "RelativeToolTip": "KauaeJoaoR\\Views\\Aluno\\CadastrarA.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T22:08:06.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "KauaeJoaoR\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T22:07:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Models\\Professor.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Models\\Professor.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:08:26.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Models\\Aluno.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:07:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\appsettings.json",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\appsettings.json",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\appsettings.json",
+              "RelativeToolTip": "KauaeJoaoR\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T22:28:16.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Repository\\ProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\ProfessorRepository.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Repository\\ProfessorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:12:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\Contract\\IProfessorRepository.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Repository\\Contract\\IProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\Contract\\IProfessorRepository.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Repository\\Contract\\IProfessorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:14:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KauaeJoaoR\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T21:25:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:00:10.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:59:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Program.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Program.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Program.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:54:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Repository\\AlunoRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "KauaeJoaoR\\Repository\\Contract\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\kakas\\source\\repos\\KauaeJoaoR\\KauaeJoaoR\\Repository\\Contract\\IAlunoRepository.cs",
+              "RelativeToolTip": "KauaeJoaoR\\Repository\\Contract\\IAlunoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:57:30.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
